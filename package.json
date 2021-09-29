@@ -1,0 +1,20 @@
+{
+  "name": "backen",
+  "version": "1.0.0",
+  "description": "codigo sobre el agendamiento de citas para una veterinaria ",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon.js"
+  },
+  "type": "module",
+  "author": "Andres B",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.11.1",
+    "mongoose": "^5.12.12"
+  }
+}
